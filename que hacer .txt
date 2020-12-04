@@ -1,0 +1,9 @@
+descomprima la carpeta html que quede solo como una carpeta
+
+ejemplo bueno
+
+html/cosas que hay dentro
+
+ejemplo malo
+
+html/html/cosasque hay dentro
