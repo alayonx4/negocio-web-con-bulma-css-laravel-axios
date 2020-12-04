@@ -1,0 +1,14 @@
+{
+    "name": "alayonx4/negocioweb",
+    "description": "negocioweb",
+    "authors": [
+        {
+            "name": "alayonx4",
+            "email": "alayonrodriguez345@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13"
+    }
+}
