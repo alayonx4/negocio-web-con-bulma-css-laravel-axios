@@ -112,7 +112,7 @@
                       <ul class="download-btn">
 
                             <li>
-                              <a href="sistema/login.php" class="btn btn-default btn-windows"><i class="fa fa-windows"></i>comprar juegos</a>
+                              <a href="ingresar.php" class="btn btn-default btn-windows"><i class="fa fa-windows"></i>comprar juegos</a>
                             </li>
                         </ul>
 
