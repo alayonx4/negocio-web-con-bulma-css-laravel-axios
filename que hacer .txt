@@ -7,3 +7,7 @@ html/cosas que hay dentro
 ejemplo malo
 
 html/html/cosasque hay dentro
+
+la carpeta raiz del trabajo debe ser
+
+localhost/ventasv3/ (para que  se muestre correctamente)
