@@ -10,4 +10,4 @@ html/html/cosasque hay dentro
 
 la carpeta raiz del trabajo debe ser
 
-localhost/ventasv3/ (para que  se muestre correctamente)
+localhost/ventasv3/index.php (para que  se muestre correctamente)
